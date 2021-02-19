@@ -1,0 +1,29 @@
+.miscellaneous .language a {
+    /* color: #999!important; */
+}
+
+body {
+    background-color: #f6f6f6;
+}
+
+.descri .menus {
+    float: right;
+    margin-right: 120px;
+}
+
+.descri .menus li {
+    float: left;
+}
+
+.descri .menus li a {
+    display: block;
+    width: 120px;
+    height: 70px;
+    font-size: 18px;
+    text-align: center;
+    line-height: 70px;
+}
+
+.descri .menus li a:hover {
+    background-color: #ffc013;
+}
